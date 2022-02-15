@@ -111,7 +111,7 @@ description: Hosted Projects list as well as public and private chains using Blo
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://explorer.atheios.org/">Atheios</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://testnet-fxscan.functionx.io/">f(x)Core EVM Testnet</a></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
